@@ -1,19 +1,7 @@
 <div align="center">
 
   <img 
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &color=0:667eea,100:764ba2
-      &height=200
-      &section=header
-      &text=Aditya%20Anjan%20Jha
-      &fontSize=80
-      &fontColor=fff
-      &animation=fadeIn
-      &fontAlignY=35
-      &desc=Networking%20Engineer%20%7C%20AR%2C%20AI%2C%20ML%20Developer%20%7C%20Full%20Stack%20Developer
-      &descAlignY=62
-      &descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aditya%20Anjan%20Jha&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Networking%20Engineer%20%7C%20AR,%20AI,%20ML%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descAlign=50"
     width="100%"
   />
 
